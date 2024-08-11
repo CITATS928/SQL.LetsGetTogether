@@ -1,0 +1,1 @@
+SELECT Country, Count(*) FROM Students Group by Country;
